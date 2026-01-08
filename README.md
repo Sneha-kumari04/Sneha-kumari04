@@ -13,7 +13,7 @@ My work currently centers on C programming, file-based data management, and stru
 - Linux fundamentals
 
 ## Projects
-- **ARMS **
+- ARMS
 - C Fundamentals Practice
 - More projects coming soon 
 
