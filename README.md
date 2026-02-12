@@ -1,40 +1,45 @@
-# Hi, I'm Sneha
+# Hi, I'm Sneha 
 
- I am a Computer Science undergraduate with a strong focus on core programming fundamentals.  
-My work currently centers on C programming, file-based data management, and structured problem solving. 
-
-- Believe in *clarity, logic, and clean execution*
+I am a Computer Science undergraduate student with a strong focus on core programming fundamentals.
+Current focused on Python, DSA, and AI fundamentals.  
+Building practical projects and improving problem-solving daily. 
 
 ---
 
-**Skills**
-- C (file handling, structures)
+## Tech Stack
+
+**Languages**
+- Python
+- C
+
+**Tools & Platforms**
 - Git & GitHub
-- Linux fundamentals
+- VS Code
+- Linux / Git Bash
 
-## Projects
-- ARMS
-- C Fundamentals Practice
-- More projects coming soon 
+**Currently Exploring**
+- Data Structures & Algorithms
+- Python Automation
+- AI Basics
 
-##  Current Focus
-- ARMS(multi-file C project)
-- Strengthening **C programming**
-- Understanding **file-based data management**
--  Writing clean and reliable C code
-  
+---
 
-<!--
-**Sneha-kumari04/Sneha-kumari04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Projects & Work
 
-Here are some ideas to get you started:
+- **ARMS Project** – Student/Professor/Admin Management System  
+- **Python Practice Repository** – Regular coding exercises  
+- **Mini Automation Scripts** – Practical small utilities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*(More structured projects coming as skills grow.)*
+
+---
+
+##  Current Goals
+
+- Strong DSA foundation  
+- Real AI-related projects  
+- Consistent GitHub activity  
+- Clean, professional portfolio  
+
+---
+
