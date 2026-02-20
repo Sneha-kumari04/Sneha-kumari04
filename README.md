@@ -6,32 +6,34 @@ Building practical projects and improving problem-solving daily.
 
 ---
 
-## Tech Stack
-
-**Languages**
-- Python
-- C
-
-**Tools & Platforms**
-- Git & GitHub
-- VS Code
-- Linux / Git Bash
-
-**Currently Exploring**
+**Currently Focus**
+- Python programming
 - Data Structures & Algorithms
-- Python Automation
-- AI Basics
+- Exploring real-world AI applications
+- Problem solving & logical thinking
 
 ---
 
-##  Projects & Work
+## Skills
+- Python(learning phase)
+- C
+- Git & GitHub
+- Basic Web Developement
+
+---
+
+##  Projects 
 
 - **ARMS Project** – Student/Professor/Admin Management System  
-- **Python Practice Repository** – Regular coding exercises  
-- **Mini Automation Scripts** – Practical small utilities  
+- **Python CLI Projects**
 
-*(More structured projects coming as skills grow.)*
+--- 
 
+## Goals 
+- Build strong AI projects
+- Improve coding consistency
+- Develop real problem-solving ability
+  
 ---
 
 ##  Current Goals
