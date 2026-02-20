@@ -33,15 +33,5 @@ Building practical projects and improving problem-solving daily.
 - Build strong AI projects
 - Improve coding consistency
 - Develop real problem-solving ability
-  
----
-
-##  Current Goals
-
-- Strong DSA foundation  
-- Real AI-related projects  
-- Consistent GitHub activity  
-- Clean, professional portfolio  
-
 ---
 
