@@ -15,7 +15,8 @@ Building practical projects and improving problem-solving daily.
 ---
 
 ## Skills
-- Python(learning phase)
+- Python
+- Flask
 - C
 - Git & GitHub
 - Basic Web Developement
